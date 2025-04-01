@@ -2,7 +2,7 @@
 
 A Modern Landing page template built with Tailwindcss and Tailus Themer
 
-<img src="public/cover.png" />
+<img src="public/logo.png" />
 
 ## Features 
 
